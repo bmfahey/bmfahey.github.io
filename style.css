@@ -1,4 +1,20 @@
-h2 {
-	font-family:"Avant Garde"
-	font-color:red;
+body {
+	background-color: gray;
+}
+
+.header {
+	font-family: "Georgia";
+	color: black;
+	text-align: center;
+}
+
+p {
+	text-align: center;
+	font-size: 24px;
+}
+
+img {
+	width:"15%" ;
+	height:"15%";
+	float: ;
 }
