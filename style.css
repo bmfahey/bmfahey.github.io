@@ -4,17 +4,22 @@ body {
 
 .header {
 	font-family: "Georgia";
-	color: black;
 	text-align: center;
+}
+
+.section_header {
+	font-weight:bold;
+	font-size: 26px;
 }
 
 p {
 	text-align: center;
+	padding-right:15%;
+	padding-left:15%;
 	font-size: 24px;
 }
 
 img {
 	width:"15%" ;
 	height:"15%";
-	float: ;
 }
